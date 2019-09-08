@@ -1,0 +1,14 @@
+/Users/maryanaantonyuk/Desktop/ParksAPI/bin/Debug/netcoreapp2.2/ParksAPI.deps.json
+/Users/maryanaantonyuk/Desktop/ParksAPI/bin/Debug/netcoreapp2.2/ParksAPI.runtimeconfig.json
+/Users/maryanaantonyuk/Desktop/ParksAPI/bin/Debug/netcoreapp2.2/ParksAPI.runtimeconfig.dev.json
+/Users/maryanaantonyuk/Desktop/ParksAPI/bin/Debug/netcoreapp2.2/ParksAPI.dll
+/Users/maryanaantonyuk/Desktop/ParksAPI/bin/Debug/netcoreapp2.2/ParksAPI.pdb
+/Users/maryanaantonyuk/Desktop/ParksAPI/obj/Debug/netcoreapp2.2/ParksAPI.csprojAssemblyReference.cache
+/Users/maryanaantonyuk/Desktop/ParksAPI/obj/Debug/netcoreapp2.2/ParksAPI.csproj.CoreCompileInputs.cache
+/Users/maryanaantonyuk/Desktop/ParksAPI/obj/Debug/netcoreapp2.2/ParksAPI.RazorAssemblyInfo.cache
+/Users/maryanaantonyuk/Desktop/ParksAPI/obj/Debug/netcoreapp2.2/ParksAPI.RazorAssemblyInfo.cs
+/Users/maryanaantonyuk/Desktop/ParksAPI/obj/Debug/netcoreapp2.2/ParksAPI.AssemblyInfoInputs.cache
+/Users/maryanaantonyuk/Desktop/ParksAPI/obj/Debug/netcoreapp2.2/ParksAPI.AssemblyInfo.cs
+/Users/maryanaantonyuk/Desktop/ParksAPI/obj/Debug/netcoreapp2.2/ParksAPI.RazorTargetAssemblyInfo.cache
+/Users/maryanaantonyuk/Desktop/ParksAPI/obj/Debug/netcoreapp2.2/ParksAPI.dll
+/Users/maryanaantonyuk/Desktop/ParksAPI/obj/Debug/netcoreapp2.2/ParksAPI.pdb
