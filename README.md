@@ -3,7 +3,7 @@
 -----
 
 ## Description
-* Custom API featuring state and national parks in Washington. Additionally, I created a MVC Web app to consume ParksAPI.
+* an API for state and national parks. The API will list state and national parks.
 
 ## Technologies Used
 * C#/.NET
